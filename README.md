@@ -10,8 +10,6 @@ Berikut adalah langkah-langkah utama yang dilakukan dalam proyek ini:
 3. **Inisialisasi Model**: Penggunaan Isolation Forest untuk mengisolasi anomali.
 4. **Pelatihan Model**: Melatih model deteksi anomalinya menggunakan data yang dipilih.
 5. **Prediksi Anomali**: Memprediksi kehadiran anomali dalam data baru.
-6. **Analisis Hasil**: Menganalisis hasil deteksi anomalinya dan implikasinya.
-7. **Tindak Lanjut**: Langkah-langkah berikutnya berdasarkan hasil deteksi anomalinya.
 
 ## File Pendukung
 - `deteksi_anomali.ipynb`: Notebook Jupyter dengan kode implementasi.
