@@ -1,0 +1,1 @@
+# Deteksi-Anomali-Pencarian-dalam-Kueri-Data
